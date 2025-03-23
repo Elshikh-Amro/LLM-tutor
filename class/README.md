@@ -27,11 +27,13 @@ Reduces redundancy by reusing code instead of writing similar logic multiple tim
 Hides complex implementation details and only exposes necessary functionality.
 
 Simplifies interaction with objects without needing to know internal workings.
+
 4. Inheritance
 
 Allows one class (child) to inherit attributes and methods from another (parent).
 
 Facilitates code reuse and the creation of hierarchies.
+
 5. Polymorphism
 
 Enables different classes to have methods with the same name but different behaviors.
