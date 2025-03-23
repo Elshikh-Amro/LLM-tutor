@@ -11,6 +11,7 @@ Why Use Classes?
 Classes allow bundling of data (attributes) and methods (functions) into a single unit.
 
 Prevents direct modification of data and ensures controlled access.
+
 2. Code Reusability
 
 Once a class is defined, multiple objects (instances) can be created from it.
@@ -20,6 +21,7 @@ Reduces redundancy by reusing code instead of writing similar logic multiple tim
 Once a class is defined, multiple objects (instances) can be created from it.
 
 Reduces redundancy by reusing code instead of writing similar logic multiple times.
+
 3. Abstraction
 
 Hides complex implementation details and only exposes necessary functionality.
